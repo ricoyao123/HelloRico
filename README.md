@@ -1,2 +1,4 @@
 # HelloRico
-Rico's Repository
+This is Rico's first Github project.
+
+Welcome to GitHub!
